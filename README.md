@@ -43,7 +43,7 @@ pandas / openpyxl → Exporting to Excel
 
 Clone the repository:
 
-git clone https://github.com/yourusername/watch-scraper.git
+git clone https://github.com/foreverxhb/watch-scraper.git
 cd watch-scraper
 
 
